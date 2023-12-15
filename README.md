@@ -1,13 +1,4 @@
 # Hi there, I'm Fancy 👋
-<table>
-  <br /><br />
-  <tbody>
-    <tr>
-    </tr>
-  </tbody>
-  
-</table>
-</div>
 
 <br /><br />
 
