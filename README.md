@@ -4,7 +4,7 @@
     <div style="display: flex; justify-content: center;">
         <img align="center" src="./assets/Welcome.gif" />
     </div>
-    <div>
+<!--     <div>
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
         <div align="center">
             <a>
@@ -18,7 +18,7 @@
             </a>
             <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
         </div>
-    </div>
+    </div> -->
     <p>
         <img align="right" style="width:500px; height:400px;" 
         src="./assets/Right_Side.gif" />
