@@ -19,7 +19,7 @@
             <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
         </div>
     </div> -->
-    <p>
+<!--     <p>
         <img align="right" style="width:500px; height:400px;" 
         src="./assets/Right_Side.gif" />
         <img align="right"
@@ -28,7 +28,7 @@
         <h3 align="left">Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.</h3>
         <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
-    </p>
+    </p> -->
     <p>
         <h1>🌠Technologies☄</h1>
         <div align="center">
