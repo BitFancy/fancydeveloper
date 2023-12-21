@@ -29,7 +29,7 @@
         <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
     </p> -->
-    <h1>🏆Stats🏅</h1>
+    <h1>🏆Senior Developer🏅</h1>
     <p align="center">
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
         <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
